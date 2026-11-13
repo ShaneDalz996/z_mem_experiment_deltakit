@@ -1,0 +1,1 @@
+[2026-09-28 22:30:25,895.895][deltakit-explorer][ERROR] generate_circuit: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) | reqid=[84175425fd414ea6b2b38ef6cd39aae3]
